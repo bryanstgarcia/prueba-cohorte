@@ -5,7 +5,7 @@
 # prueba-cohorte
 
 - [ ] Realizar todos los proyectos
-- [ ] Hacer la lectura del móidulo 5 
+- [ ] Hacer la lectura del módulo 5 
 mi cambio en codespaces
 
 ##  José arregla esto
